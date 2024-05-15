@@ -1,1 +1,1 @@
-# Js-PalavraAleat-ria
+# Js-PalavraAleatória
